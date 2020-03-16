@@ -1,12 +1,13 @@
 # Neural Network from scratch
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENSE.md)
+---
+
+### Description
+A two-layer neural network for classifying cats vs non-cats. The neural network is built using numpy library where the image is flattened to form the input layer and the hidden layer has 14 neurons and the output layer has one neuron predicting whether the input image is a cat or a non-cat. 
 
 
 ### Author
 Arpit Aggarwal
-
-
-### Instructions for running the code
-To run the code for finding the path, follow the following commands:
 
 
 ### Software Required
